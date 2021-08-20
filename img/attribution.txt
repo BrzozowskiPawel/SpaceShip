@@ -1,0 +1,32 @@
+ufo.png
+https://www.flaticon.com/free-icon/ufo_3306604?term=ufo&page=1&position=8&page=1&position=8&related_id=3306604&origin=search
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+spaceship.png
+https://www.flaticon.com/free-icon/spaceship_1114531?term=spaceship&page=1&position=5&page=1&position=5&related_id=1114531&origin=search
+<div>Icons made by <a href="https://www.flaticon.com/authors/photo3idea-studio" title="photo3idea_studio">photo3idea_studio</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+enemy1.png
+https://www.flaticon.com/free-icon/ufo_3306604?term=ufo&page=1&position=11&page=1&position=11&related_id=3306604&origin=search
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+enemy2.png
+https://www.flaticon.com/free-icon/ufo_214358?term=ufo&page=1&position=1&page=1&position=1&related_id=214358&origin=search
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-buddha" title="Pixel Buddha">Pixel Buddha</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+enemy3
+https://www.flaticon.com/free-icon/ufo_620768?term=ufo&page=1&position=23&page=1&position=23&related_id=620768&origin=search
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+background.png
+https://pl.freepik.com/darmowe-wektory/gradientowe-tlo-galaktyki-z-rakieta_4443633.htm#page=1&query=colorful%20spaceship%20background&position=45
+<a href="https://pl.freepik.com/wektory/tlo">Tło plik wektorowy utworzone przez freepik - pl.freepik.com</a>
+
+bullet.png
+https://www.flaticon.com/free-icon/bullet_1789179?term=bullet&page=1&position=48&page=1&position=48&related_id=1789179&origin=search
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
+music + tutorial material:
+https://youtu.be/FfWpgLFMI7w
+https://github.com/attreyabhatt/Space-Invaders-Pygame

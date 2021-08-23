@@ -4,7 +4,7 @@ import game_functions
 
 class Bullet:
     def __init__(self):
-        self.bulletImg = pygame.image.load('../../../../Downloads/SpaceShipMultiplayerGame-master/img/bullet.png')
+        self.bulletImg = pygame.image.load('img/bullet.png')
         self.bulletX = 0
         self.bulletY = 680
         self.bulletX_change = 0

@@ -1,7 +1,7 @@
 import bullet
 import pygame
 import game_functions
-import spaceship
+import player
 import enemy
 
 # Initialize the pygame.
@@ -25,7 +25,7 @@ pygame.display.set_icon(icon)
 score_value = 0
 
 # Creating player
-player = spaceship.Player()
+player = player.Player()
 # Creating bullet
 bullet = bullet.Bullet()
 

@@ -30,7 +30,7 @@ You can use IDE or Terminal to build this project. Below I present the instructi
 ```
  pip3 install pygame
 ```
-3.1 or if you are using Windows OS try:
+or if you are using Windows OS try:
 ```
  pip install pygame
 ```

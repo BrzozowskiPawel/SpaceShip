@@ -25,8 +25,9 @@ In the event that we fail to stop these aliens from attacking, we lose.
 You can use IDE or Terminal to build this project. Below I present the instructions on how to run the program using the terminal.
 
 1. Clone the repository.
-2. Unzip project
-3. Install pygame module
+2. Unzip project.
+3. Go to the folder where you unpacked this project.
+4. Install pygame module.
 ```
  pip3 install pygame
 ```

@@ -27,8 +27,12 @@ You can use IDE or Terminal to build this project. Below I present the instructi
 1. Clone the repository.
 2. Unzip project
 3. Install pygame module
- ```
+```
  pip3 install pygame
+```
+3.1 or if you are using Windows OS try:
+```
+ pip install pygame
 ```
 4. start main.py.
 ```

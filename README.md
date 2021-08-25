@@ -13,7 +13,7 @@ A simple game that imitates Space Invaders. Created with help of the pygame libr
 ## Description
 A game created as a project to teach the pygame library. I used the tutorial to learn the basics. Then I modified it by adding additional mechanics. The tutorial mentioned in this text: [link](https://www.youtube.com/watch?v=FfWpgLFMI7w)
 ## Demo
-Gameplay:
+Gameplay: </br>
 <img src="readme_files/spaceship_gameplay.gif" alt="gameplay" width="796"/> 
 
 In case that we fail to stop aliens from attacking, we lose.
